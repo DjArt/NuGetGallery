@@ -1130,4 +1130,10 @@ The {1} Team</value>
   <data name="NuGetPackageDuplicateDependencyGroup" xml:space="preserve">
     <value>A nuget package may not contain multiple dependency groups with the same target framework.</value>
   </data>
+  <data name="CredentialType_Ldap" xml:space="preserve">
+    <value>LDAP</value>
+  </data>
+  <data name="LdapUserInvalid" xml:space="preserve">
+    <value>The user '{0}' was not validated through LDAP. Please check the LDAP username and password.</value>
+  </data>
 </root>
